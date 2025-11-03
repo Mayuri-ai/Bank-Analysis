@@ -15,7 +15,7 @@ Profit %: 14.23%
 
 Average Sales per Order: 169,609
 
- 4. Dashboard Components:
+4. Dashboard Components:
 
 Total Sales by Country:
 Bar chart showing sales distribution across countries such as the USA, Canada, France, Germany, and Mexico.
@@ -39,13 +39,14 @@ Data Transformation: Power Query Editor
 Modeling: Relationship building and DAX measures for KPIs (Sales, COGS, Profit %, Margin).
 
 Visualization: Bar charts, Donut charts, and interactive slicers for enhanced filtering.
-7. Dashboard Screenshot 
 
-
- Outcome / Impact:
+7. Outcome / Impact:
 
 Provided a clear view of sales trends and profitability by region, segment, and product.
 
 Helped management identify top-performing markets and discount strategies.
+8. Dashboard Screenshot 
+https://github.com/Mayuri-ai/Bank-Analysis/blob/main/SalesAnalyticsDashboard_Screenshot.png
+
 
 Improved data-driven decision-making through dynamic, interactive visualization.
